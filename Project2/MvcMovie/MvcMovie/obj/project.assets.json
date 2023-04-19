@@ -10615,11 +10615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#Exercise\\Projects\\Project2\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Voidtuki\\source\\repos\\voidtuki\\ASP.NET-Core\\Project2\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\C#Exercise\\Projects\\Project2\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\Voidtuki\\source\\repos\\voidtuki\\ASP.NET-Core\\Project2\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Voidtuki\\.nuget\\packages\\",
-      "outputPath": "D:\\C#Exercise\\Projects\\Project2\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\Voidtuki\\source\\repos\\voidtuki\\ASP.NET-Core\\Project2\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
